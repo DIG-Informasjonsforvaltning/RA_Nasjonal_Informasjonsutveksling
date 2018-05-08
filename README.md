@@ -1,2 +1,4 @@
-# RA_Nasjonal_Informasjonsutveksling
-# RA_Nasjonal_Informasjonsutveksling
+# SA_Nasjonal_Informasjonsutveksling
+Segment arkitektur for nasjonal informasjonsutveksling
+I første omgang eOppslag
+
